@@ -1,0 +1,5 @@
+1)Performance Analyser
+2)Optimization of data loading or query
+3)why to use Theme 
+4)Why to use Variables
+5)how to handle large dataset
